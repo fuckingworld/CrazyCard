@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CrazyCard</string>
+
+    <!--Replace with your own ad unit id. ca-app-pub-3940256099942544/1033173712-->
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="ad_unit_id">ca-app-pub-6571779790787196/4552926998</string>
+    <string name="ad_unit_id_banner">ca-app-pub-6571779790787196/6029660190</string>
+    <string name="ad_unit_id_banner2">ca-app-pub-6571779790787196/7506393395</string>
+    <string name="ad_unit_id_banner3">ca-app-pub-6571779790787196/8983126595</string>
+
+</resources>
