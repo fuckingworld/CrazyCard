@@ -1,1 +1,1 @@
-# CrazyCardGame
+# CrazyCard
